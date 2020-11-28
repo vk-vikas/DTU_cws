@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>D:/FEC/1.jpg</file>
+        <file>D:/FEC/blue.jpg</file>
+        <file>D:/FEC/medical_mask_PNG48.png</file>
+        <file>D:/FEC/pexels-madison-inouye-1831234.jpg</file>
+        <file>D:/FEC/pink.jpg</file>
+        <file>D:/FEC/send-100-high-resolution-web-background-1920x1200.jpg</file>
+        <file>D:/FEC/labour.png</file>
+        <file>D:/FEC/suitcase_PNG10777.png</file>
+        <file>D:/FEC/farmer_PNG64.png</file>
+    </qresource>
+</RCC>
